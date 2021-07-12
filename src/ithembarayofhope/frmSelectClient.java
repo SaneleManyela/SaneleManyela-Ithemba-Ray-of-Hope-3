@@ -9,7 +9,7 @@ import java.sql.*;
 import javax.swing.*;
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmSelectClient extends javax.swing.JFrame {
 
