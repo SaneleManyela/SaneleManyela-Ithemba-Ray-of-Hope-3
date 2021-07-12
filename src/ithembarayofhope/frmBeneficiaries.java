@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmBeneficiaries extends javax.swing.JFrame {
 
