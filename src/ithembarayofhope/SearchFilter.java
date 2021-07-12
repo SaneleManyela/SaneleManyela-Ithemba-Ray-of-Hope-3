@@ -13,7 +13,7 @@ import javax.swing.border.EmptyBorder;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class SearchFilter extends JDialog{
     public SearchFilter(JFrame frmParent) {
