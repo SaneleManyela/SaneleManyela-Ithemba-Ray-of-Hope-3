@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmCovers extends javax.swing.JFrame {
 
