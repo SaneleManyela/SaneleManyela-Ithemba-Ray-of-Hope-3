@@ -7,7 +7,7 @@ package ithembarayofhope;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmMain extends javax.swing.JFrame {
 
