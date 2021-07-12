@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmRegister extends javax.swing.JFrame {
    
