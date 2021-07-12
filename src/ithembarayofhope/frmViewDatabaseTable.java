@@ -12,7 +12,7 @@ import javax.swing.*;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmViewDatabaseTable extends javax.swing.JFrame {
 
