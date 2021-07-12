@@ -11,7 +11,7 @@ import java.util.List;
 import javax.swing.*;
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class SQLExecutingMethods {
     public Connection mDatabaseConnection() {
