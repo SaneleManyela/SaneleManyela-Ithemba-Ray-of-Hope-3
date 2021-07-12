@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author User
+ * @author Sanele
  */
 public class frmPolicyRegistrations extends javax.swing.JFrame {
 
